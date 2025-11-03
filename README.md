@@ -1,7 +1,7 @@
 
-  # LostnFound UI Mockup
+  # LostnFound UI 
 
-  This is a code bundle for LostnFound UI Mockup. The original project is available at https://www.figma.com/design/dfgLa4zSqhn9edPJSPM2Es/LostnFound-UI-Mockup.
+  
 
   ## Running the code
 
